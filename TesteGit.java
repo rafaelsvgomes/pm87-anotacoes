@@ -3,5 +3,7 @@ public class TesteGit{
       System.out.println("Teste GIT!!!");
       System.out.println("Teste GIT 2!!!");
 
+      System.out.printl("work");
+
    }
 }
